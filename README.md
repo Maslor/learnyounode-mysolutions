@@ -3,7 +3,7 @@
 
 These are my solutions (not the official ones, the ones I wrote when completing the challenges) for the learnyounode challenges. 
 
-*Still Ongoing - 6/13 challenges completed*
+*Still Ongoing - 8/13 challenges completed*
 
 Original workshops on https://github.com/workshopper/learnyounode
 
