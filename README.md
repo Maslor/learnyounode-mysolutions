@@ -5,11 +5,9 @@ These are my solutions (not the official ones, the ones I wrote when completing 
 
 *Completed - 13/13 challenges completed*
 
-Original workshops on https://github.com/workshopper/learnyounode
+####Original workshops, challenges and exercises on https://github.com/workshopper/learnyounode
 
-###### Bear in mind that I am also at begginer level in terms of node.js , these are probably not the most efficient solutions
-
-#### Challenges
+#### Challenge Solutions
 
 1. [Hello World](https://github.com/Maslor/learnyounode-mysolutions/blob/master/helloWorld.js)
 2. [Baby Steps](https://github.com/Maslor/learnyounode-mysolutions/blob/master/process.js)
@@ -24,3 +22,5 @@ Original workshops on https://github.com/workshopper/learnyounode
 11. [HTTP File Server](https://github.com/Maslor/learnyounode-mysolutions/blob/master/http-file-server.js)
 12. [HTTP Uppercaser](https://github.com/Maslor/learnyounode-mysolutions/blob/master/http-post.js)
 13. [HTTP JSON API Server](https://github.com/Maslor/learnyounode-mysolutions/blob/master/http-json.js)
+
+###### Bear in mind that I am also at begginer level in terms of node.js , these are probably not the most efficient solutions
